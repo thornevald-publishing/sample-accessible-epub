@@ -49,8 +49,8 @@ born-accessible/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/thornevald-publishing/sample-accessible-epub.git
-cd sample-accessible-epub
+git clone https://github.com/thornevald-publishing/born-accessible-epub.git
+cd born-accessible-epub
 ```
 
 2. Test locally using an EPUB reader (Calibre, Thorium, Adobe Digital Editions, etc.).
